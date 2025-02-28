@@ -15,4 +15,6 @@
 <img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API Badge">
 <img src="https://img.shields.io/badge/Cisco-black?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge">
 <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge">
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge">
+<img src="https://img.shields.io/badge/IoT-black?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT Badge">
 </p>
