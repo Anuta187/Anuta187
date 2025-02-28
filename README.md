@@ -10,4 +10,9 @@
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
 <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
 <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Badge">
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+<img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API Badge">
+<img src="https://img.shields.io/badge/Cisco-black?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge">
+<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge">
 </p>
